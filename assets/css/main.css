@@ -28,3 +28,9 @@ a.navigation-item {
     color: #000000;
     border-bottom: 2px solid #f0c808;
 }
+
+
+
+.img-circle {
+    border-radius: 50%;
+}
