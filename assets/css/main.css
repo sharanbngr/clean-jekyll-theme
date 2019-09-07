@@ -36,6 +36,5 @@ a.navigation-item {
 }
 
 div.relative {
-  position: relative;
-  left: 150px;
+    float = right;
 }
