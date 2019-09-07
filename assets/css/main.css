@@ -33,6 +33,8 @@ a.navigation-item {
 
 .img-circle {
     border-radius: 50%;
+    float = left;
+
 }
 
 div.relative {
